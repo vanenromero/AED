@@ -1,4 +1,4 @@
-# AYEDK1051
+# AED
 • Algoritmos y Estructuras de Datos
 • K 1051
 • 2023, primer cuatrimestre.
