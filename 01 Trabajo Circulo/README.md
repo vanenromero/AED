@@ -13,7 +13,7 @@
 - Operaciones EstánSolapados, y otra
 - Main asserts
   
-#### 
+#### Desarrollo
 - Se realiza trabajo indicado, a la hora de implementarlo se tienen en cuenta los conceptos aprendidos durante la cursada
 - Comenzando se analizan las fórmulas afectadas para realizar las diferentes funciones y se utiliza como guía el trabajo número 17 de "Trabajos de AyED" 
 - Se decide realizar las funciones para calcular la circunferencia, el área, la función llamada IsDentro y EstanSolapados. 
